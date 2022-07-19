@@ -6,7 +6,7 @@ images:
     repository: busybox
     tag: latest
   container:
-    repository: docker.io/lopez
+    repository: docker.io/nlopez/kube-rclone
     tag: 2022-07-18-00
   pullPolicy: IfNotPresent
 

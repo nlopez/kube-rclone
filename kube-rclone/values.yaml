@@ -6,8 +6,8 @@ images:
     repository: busybox
     tag: latest
   container:
-    repository: quay.io/simplyzee/kube-rclone
-    tag: v1.53.1
+    repository: docker.io/lopez
+    tag: 2022-07-18-00
   pullPolicy: IfNotPresent
 
 # imagePullSecrets:

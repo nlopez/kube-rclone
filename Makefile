@@ -1,4 +1,4 @@
-TAG = docker.io/nlopez/kube-rclone:2022-07-18-00
+TAG = docker.io/nlopez/kube-rclone:2022-10-29-00
 
 .PHONY: build
 build:

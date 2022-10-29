@@ -1,6 +1,6 @@
-FROM alpine:3.16.1
+FROM alpine:3.16.2
 
-ARG RCLONE_VERSION=1.59.0
+ARG RCLONE_VERSION=1.60.0
 
 RUN apk add --no-cache --virtual=build-dependencies wget unzip && \
     cd tmp && \
